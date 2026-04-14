@@ -5,7 +5,7 @@
 Clone from Github:
 
 ```zsh
-git clone https://github.com/monokai-pro/my-app.git
+git clone https://github.com/PushkaCom/Monokai-Pro-CE-for-Notepad-/
 ```
 
 ### Activating theme
